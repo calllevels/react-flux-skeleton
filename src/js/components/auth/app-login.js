@@ -45,13 +45,13 @@ var Login = React.createClass({
             <div className="form-group">
               <label for="inputUsername" className="col-sm-2 control-label">Username</label>
               <div className="col-sm-6">
-                <input ref="username" type="username" className="form-control" id="inputUsername" placeholder="username" defaultValue="xuanrong123" />
+                <input ref="username" type="username" className="form-control" id="inputUsername" placeholder="username" />
               </div>
             </div>
             <div className="form-group">
               <label for="inputPassword" className="col-sm-2 control-label">Password</label>
               <div className="col-sm-6">
-                <input ref="pass" type="password" className="form-control" id="inputPassword" placeholder="Password" defaultValue="password"/>
+                <input ref="pass" type="password" className="form-control" id="inputPassword" placeholder="Password" />
               </div>
             </div>
             <div className="form-group">
