@@ -1,7 +1,7 @@
 {
-  "name": "Sweehoot-front",
+  "name": "react-flux-skeleton",
   "version": "0.0.1",
-  "description": "The front-end for sweehoot",
+  "description": "The front-end on react-flux",
   "main": "gulpfile.js",
   "dependencies": {
   "react": "^0.13.3",

@@ -3,7 +3,7 @@ var AppDispatcher = require('../dispatchers/app-dispatcher'),
     EventEmitter = require('events').EventEmitter,
     React = require('react/addons'),
     request = require('superagent'),
-    authApi = "http://localhost:3000/oauth/token?grant_type=password&";
+    authApi = "http://www.example.com/oauth";
 
 var CHANGE_EVENT = "change";
 
